@@ -1,5 +1,7 @@
 # 📄 README - Chessboard Analysis using AI & Computer Vision
 
+## Code - https://colab.research.google.com/drive/1U9c1Z2-B1Cs0w6Ue73XRL-KxD1mY8Rfw?usp=sharing
+
 ## 🎯 Objective
 The goal of this assignment is to create a computer vision solution that can accurately analyze a chessboard image—whether full or partial—and count the number of black and white squares. The program must be robust to variations in angle, lighting, and image quality.
 
